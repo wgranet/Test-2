@@ -8,8 +8,9 @@ public class Client {
 	private String civilite ;
 	private String adresse;
 	private int telephone;
+	private int kalache;
 	private ArrayList <Compte>listeCompte = new ArrayList();
-	
+	//fdefguyfgyegffe
 	public Client(){
 		
 	}
