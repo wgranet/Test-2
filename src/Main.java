@@ -8,12 +8,12 @@ public class Main {
 			clavier = new Scanner(System.in);
 			Banque uneBanque = new Banque();
 			IHM maFenetre = new IHM(uneBanque);
-			
+			//TEST
 			//Déclarations des variables
 			String banque,nomC,nomClt,prenomClt,civilite, adresse;
 			int telephone, numC, solde;
 			boolean trouve = false;
-							
+							//a TEST
 			//Saisie donnée sur la banque et compte
 			System.out.println("Saisir le nom de votre banque : ");
 			banque=clavier.nextLine();
